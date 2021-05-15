@@ -1,0 +1,21 @@
+{
+  "name": "discord-webcomic-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebdmuir/discord-webcomic-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebdmuir/discord-webcomic-bot/issues"
+  },
+  "homepage": "https://github.com/ebdmuir/discord-webcomic-bot#readme"
+}
